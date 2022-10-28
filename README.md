@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Natalia</h1>
 <h3 align="center">I'm a passionate full stack web development student from Buenos Aires, Argentina</h3>
-<hr>
+
 <br>
 <br>
 <p align="center">
-For several years I have been working in the area of ​​interior design and architecture.
-I am currently studying full stack web development at Academy by Numen, learning more about this beautiful world every day.</p>
+For several years I have been working in the area of ​​Interior Design and Architecture.
+I am currently studying full stack web development at Academy by Numen, learning more about this amazing  world every day.</p>
 <hr>
 <br>
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/pogonza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/pogonza" height="30" width="40" /></a>
 <a href="https://twitter.com/naty_b_pog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="naty_b_pog" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/natalia-pogonza-31b90018a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/natalia-pogonza-31b90018a" height="30" width="40" /></a>
+<a href="https://codepen.io/https://codepen.io/pogonza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/pogonza" height="30" width="40" /></a>
 </p>
 <br>
 <br>
